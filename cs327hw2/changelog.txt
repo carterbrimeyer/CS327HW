@@ -1,0 +1,20 @@
+Feb 6th ~ 7:30pm
+	initialized project and created map and printmap function
+Feb 8th ~5pm
+	initialized the header file, fixed memory issue with map array, started room generation
+Feb 9th ~ 10:30pm
+	added struct tile and room, changed char map array to tile map array, fixed issues with for loops,
+	semi working room generation.
+Feb 10th ~ 8pm
+	room generation working, fixed overlapping rooms and intersection, started path generation,
+	and stair generation.
+Feb 11th ~ 4pm
+	finished path generation and stair generation, ironed out some general bugs and unused variables.
+
+Feb 17th
+	started load/save features
+Feb 18th
+	Sort of finished load and save features
+		slight improvement
+Feb 19th
+	Finished assignment 2 and ironed out bugs, done as far as I know of.
