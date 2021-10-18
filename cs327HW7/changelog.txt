@@ -1,0 +1,50 @@
+Feb 6th ~ 7:30pm
+	initialized project and created map and printmap function
+Feb 8th ~5pm
+	initialized the header file, fixed memory issue with map array, started room generation
+Feb 9th ~ 10:30pm
+	added struct tile and room, changed char map array to tile map array, fixed issues with for loops,
+	semi working room generation.
+Feb 10th ~ 8pm
+	room generation working, fixed overlapping rooms and intersection, started path generation,
+	and stair generation.
+Feb 11th ~ 4pm
+	finished path generation and stair generation, ironed out some general bugs and unused variables.
+
+Feb 17th
+	started load/save features
+Feb 18th
+	Sort of finished load and save features
+		slight improvement
+Feb 19th
+	Finished assignment 2 and ironed out bugs, done as far as I know of.
+Feb 23rd
+	Decided to switch to professor's code. Started assignment, got most of the 	regular 	pathwalking done
+Feb 24th
+	finished regular pathwalking done and correctly outputting, started on the 	tunnelling
+Feb 25th
+	finished tunnelling
+Feb 26th
+	finished all the other generation and fixed bugs
+Mar 3rd
+	Completely ran out of time on this one, and its failing to do some of the basic requirements. just turning in what i got.
+Mar 9th
+	Started assignment got some basic ncurses function.
+Mar 10th
+	Got ncurses to be functional both input and output started getting good movement	
+Mar 11th
+	Got fully functional movement and the monster menu to work. also functioning staircases.
+Mar 20th 
+	Started assignment, casting stuff for c++ and renaming files.
+Mar 22nd
+	Almost got all of the errors out.
+Mar 24th
+	Finished converting to C++ and now starting other objectives
+Mar 25th
+	Added teleporting and the fog of war and associatied keys.
+Mar 29th
+	Started the assignment, able to read files
+Mar 3oth
+	Added helper functions to help handle file reading, starting to parse information
+April 1st
+	Got most of monster descriptions working some memory bounds errors but eventually fixed them 		and implemnt object descriptions
