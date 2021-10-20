@@ -14,6 +14,6 @@ this will compile all of the files from the program. Then to run the actual appl
 
 When you are done to clean up the output files, you can run the command
 
-make clean
+`make clean`
 
 to remove them.
