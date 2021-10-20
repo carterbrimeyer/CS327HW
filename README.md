@@ -3,6 +3,8 @@ A collection of my homework from CS 327
 
 For this class, we had ten assignments, you can view my work for each of the assignments in their respective branch. For each assignment we had about a week to complete our objectives.
 
+Click [here](https://github.com/carterbrimeyer/C-Chess) to see my final and tenth project for this class, a simple C++ chess game.
+
 ======= TO RUN =======
 
 Download the files from the branch of the assignment you want to run, and open the directory in terminal or command prompt. From here, enter the command
