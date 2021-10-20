@@ -1,6 +1,6 @@
 # CS327HW
 
-Homework 8 - the objectives for this assignment can be found in the included PDF.
+Homework 9 - the objectives for this assignment can be found in the included PDF.
 
 ======= TO RUN =======
 
